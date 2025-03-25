@@ -1,5 +1,8 @@
 # Advanced Navigation ROS2 Driver
 
+This code was provided to NREL-MODAQ2 by Advanced Navigation. 
+
+
 ## Introduction
 
 This is an example using the Advanced Navigation SDK to create a ROS2 driver that reads and decodes the Advanced Navigation Packet Protocol (ANPP) Packets and publishes the information as ROS topics / messages. 
