@@ -1,6 +1,6 @@
 # Advanced Navigation ROS2 Driver
 
-This code was provided to NREL-MODAQ2 by Advanced Navigation. https://github.com/advanced-navigation
+This code was provided to NREL-MODAQ2 by Advanced Navigation. Their current ros2 driver does not work with ethernet instruments. https://github.com/advanced-navigation
 
 
 ## Introduction
